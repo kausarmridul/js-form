@@ -31,6 +31,13 @@ img {
     Spacing Css Ends
 ================  */
 
+h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #e9252b;
+    text-align: center;
+    margin-top: 20px;
+}
+
 .form {
     width: 350px;
     height: 520px;
